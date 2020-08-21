@@ -7,4 +7,3 @@ new_array=[]
    new_array << numbers
    new_array
 end
-end
